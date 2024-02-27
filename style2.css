@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+.photos {
+    background-color: orange;
+    font-size: 30px;
+    border-radius: 8px;
+    padding: 1px 1px 1px 1px;
+    text-decoration: none;
+    color: black;
+}
+
+header img {
+    padding-left: 15px;
+}
+
+main h1 {
+    text-align: center;
+}
+
+main img {
+    padding: 5px 5px 5px 5px;
+}
+
+.oneh {
+    text-align: left;
+    color: red;
+}
+
+
+footer {
+    background-color: aquamarine;
+    padding: 10px 10px 10px 10px;
+    padding-left: 35px;
+}
+
+span a {
+    text-decoration: none;
+    color: black;
+}
